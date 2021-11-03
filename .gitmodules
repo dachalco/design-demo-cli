@@ -1,0 +1,6 @@
+[submodule "lib/FreeRTOS-Plus-CLI"]
+	path = lib/FreeRTOS-Plus-CLI
+	url = git@github.com:FreeRTOS/FreeRTOS-Plus-CLI.git
+[submodule "lib/esp-idf"]
+	path = lib/esp-idf
+	url = https://github.com/espressif/esp-idf.git
